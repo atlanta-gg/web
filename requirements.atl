@@ -4,14 +4,14 @@
 <ul>
 <li>CPU: Intel Core i5 7th gen / AMD Ryzen 5 5th gen or higher.</li>
 <li>RAM: 8GB, Speed / Frequency does not matter.</li>
-<li>GPU: At the least 2GB or more VRAM + Direct X10 compatible.</li>
+<li>GPU: At the least 2GB or more VRAM + Direct X11 compatible.</li>
 <li>OS: Windows 10 / Windows 11.</li>
 </ul>
 <p>Recommended:</p>
 <ul>
 <li>CPU: Intel Core i7 9th gen / AMD Ryzen 7 3rd gen or higher.</li>
 <li>RAM: 16GB, Speed / Frequency does not matter.</li>
-<li>GPU: At the least 4GB or more VRAM + Direct X10 compatible.</li>
+<li>GPU: At the least 4GB or more VRAM + Direct X11 compatible.</li>
 <li>OS: Windows 10 22H2.</li>
 </ul>
 <p>We also do NOT offer support for Integrated Graphics and or recent Windows 11 Versions, If you want to use our products and are on versions like 24H2 feel free to downgrade.</p>
